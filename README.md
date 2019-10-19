@@ -1,5 +1,4 @@
-# Operating Systems class project 2 
-# Add Lottery Scheduler to xv6 Due date 16th Oct, 2019
+# Operating Systems class project 2 - Add Lottery Scheduler to xv6
 
 Add a lottery scheduler to xv6
 ----------------------
